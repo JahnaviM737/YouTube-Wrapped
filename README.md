@@ -3,6 +3,8 @@ Making my own YouTube and YouTube Music Wrapped using data from Google Takeout b
 
 ### If you want to watch a fun video instead of reading about this project: https://youtu.be/Pdwi8ROtxMk
 
+### Figma prototype: {Click to view the UI Screens in Action}[https://www.figma.com/proto/kqW1YuJvqCbYx2PvkMVUk2/YouTube-Wrapped?type=design&node-id=4-75&t=EF5ZA7bwezexGYp1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=4%3A75&show-proto-sidebar=1&mode=design]
+
 Let's do this a bit more formally, shall we? <br>
 ## Introduction
 This repository encapsulates the comprehensive analysis and exploration of my YouTube Wrapped for the year 2023. The initiative was sparked by the revelation that YouTube's automated service inaccurately identified my top song, setting the stage for a deep dive into the intricacies of my music consumption throughout the year.
